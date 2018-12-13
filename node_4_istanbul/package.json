@@ -1,0 +1,21 @@
+{
+  "name": "node_4_istanbul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mocha": "mocha test/mocha.test.js",
+    "cover": "istanbul cover ./node_modules/mocha/bin/_mocha --reporter test/istanbul.test.js"
+  },
+  "author": "Azr",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
