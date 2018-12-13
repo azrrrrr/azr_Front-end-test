@@ -1,0 +1,17 @@
+{
+  "name": "node_2_chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azr",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
