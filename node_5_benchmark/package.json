@@ -1,0 +1,17 @@
+{
+  "name": "node_5_benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azr",
+  "license": "ISC",
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
