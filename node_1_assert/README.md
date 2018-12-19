@@ -1,17 +1,5 @@
----
-layout:     post
-title:      No API Is the Best API---Power Assert
-subtitle:    The origin of “Power Assert” is Spock framework written in groovy. When I first saw groovy’s Power Assert, I was so surprised and attracted.
-date:      2018-12-11
-author:     Azr
-header-img: img/post-bg-debug.png
-catalog: true
-tags:
-    - 断言库
-    - Assert
-    - 测试
-    - 单元测试
----
+
+# No API Is the Best API---Power Assert
 
 
 > 为什么 Power Assert 是更好的断言库？
